@@ -1,8 +1,9 @@
 # Aircaft flying and not flying
 
- Add short description of project here > 
+ Add a short description of the project here > 
 
-![add image descrition here](direct image link here)
+CODE NEEDED FOR THIS PROGRAM![code  for invidia project](https://github.com/Qstile/NVIDIA-project/assets/172285930/158711c4-7a8d-4fc4-9e61-d1d6065733c4)
+
 
 ## The Algorithm
 
@@ -10,7 +11,6 @@ Add an explanation of the algorithm and how it works. Make sure to include detai
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+put steps
 
 [View a video explanation here](video link)
